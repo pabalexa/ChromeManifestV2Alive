@@ -30,7 +30,7 @@ reg add HKLM\Software\Policies\Google\Chrome /v ExtensionManifestV2Availability 
 
 ### ¿Por qué usar este script?
 
-- Si eres usuario de extensiones que no se han actualizado a Manifest v3, como algunas versiones de **The Great Suspender**, este script te permitirá seguir usándolas sin problemas.
+- Si eres usuario de extensiones que no se han actualizado a Manifest v3 este script te permitirá seguir usándolas sin problemas.
 - Ayuda a evitar la pérdida de funcionalidad cuando Google Chrome finalmente deje de soportar Manifest v2.
 - Es una solución temporal hasta que los desarrolladores actualicen sus extensiones a la nueva versión.
 
